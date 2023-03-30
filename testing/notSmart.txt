@@ -1,0 +1,8 @@
+1
+black
+2
+P F7 to F5
+P B2 to B4
+P E7 to E6
+B C1 to B2
+END

@@ -1,0 +1,13 @@
+1
+white
+1
+P H7 to H5
+P B2 to B3
+P G7 to G6
+P G2 to G3
+P D7 to D5
+P C2 to C3
+B C8 to F5
+P A2 to A4
+Q D8 to D7
+END

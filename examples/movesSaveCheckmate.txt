@@ -1,0 +1,36 @@
+2
+P H7 to H5
+P E2 to E4
+P H5 to H4
+P G2 to G4
+P H4 to G3
+P F2 to G3
+P B7 to B5
+B F1 to D3
+B C8 to A6
+N G1 to F3
+P C7 to C5
+K E1 to G1
+Q D8 to A5
+N B1 to C3
+Q A5 to A2
+N C3 to D5
+Q A2 to B2
+R A1 to A6
+Q B2 to C2
+B C1 to A3
+P B5 to B4
+Q D1 to A1
+N B8 to C6
+R A6 to B6
+p b4 to b3
+B A3 to B4
+P B3 to B2
+Q A1 to A7
+p b2 to b1
+q
+Q A7 to A8
+N C6 to B8
+END
+q a8 to b8
+//byl castle a byla promotion z ulozeneho souboru

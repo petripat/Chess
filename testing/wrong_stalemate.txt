@@ -1,0 +1,22 @@
+2
+p h7 to h5
+P A2 to A3
+P A7 to A5
+N G1 to H3
+N G8 to H6
+R A1 to A2
+P H5 to H4
+N B1 to C3
+N H6 to G4
+P B2 to B3
+P E7 to E6
+R A2 to B2
+B F8 to C5
+P E2 to E4
+P B7 to B6
+Q D1 to G4
+Q D8 to E7
+Q G4 to G7
+B C8 to B7
+Q G7 to H8
+END

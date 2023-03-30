@@ -1,0 +1,39 @@
+1
+white
+hard
+N B8 to A6
+P D2 to D4
+P B7 to B5
+B C1 to F4
+P C7 to C6
+B F4 to E3
+P B5 to B4
+B E3 to F4
+B C8 to B7
+B F4 to G5
+P H7 to H6
+B G5 to C1
+P H6 to H5
+B C1 to E3
+Q D8 to B8
+B E3 to C1
+Q B8 to H2
+B C1 to G5
+Q H2 to H1
+B G5 to E7
+K E8 to E7
+K E1 to D2
+Q H1 to G1
+K D2 to E1
+Q G1 to G2
+Q D1 to D2
+Q G2 to F1
+K E1 to F1
+P H5 to H4
+P C2 to C3
+B B7 to C8
+Q D2 to E3
+K E7 to D6
+END
+Jedna z klicovych situaci na testovani. Nejde na Bishopy, ale na kinga a vybere tu spravnou pozici pro checkmate a ne check, neobetuje se (delala jen pro check..).
+Uhnul kvuli checku - prvni tah.

@@ -1,0 +1,16 @@
+1
+white
+2
+P H7 to H5
+P E2 to E4
+P H5 to H4
+P G2 to G4
+P H4 to G3
+P F2 to G3
+P B7 to B5
+B F1 to D3
+B C8 to A6
+N G1 to F3
+P C7 to C5
+END
+// PC will castle K E1 to G1

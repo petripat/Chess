@@ -1,0 +1,17 @@
+1
+black
+easy
+P D7 to D5
+N G1 to F3
+P B7 to B6
+P C2 to C4
+P A7 to A5
+P C4 to D5
+P B6 to B5
+P D2 to D3
+P H7 to H6
+K E1 to D2
+K E8 to D7
+N F3 to G1
+END
+
